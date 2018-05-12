@@ -1,0 +1,28 @@
+_repo: A.B.C.-of-Snap-ShootingSporting-Exhibition-and-Military_45030
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45030-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fletcher, Horace
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '43027'
+    url: http://www.gutenberg.org/2009/agents/43027
+    wikipedia: https://en.wikipedia.org/wiki/Horace_Fletcher
+description: ''
+gutenberg_issued: '2014-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45030'
+  lccn: '05023565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trapshooting'
+- !lcc 'GV'
+title: 'A.B.C. of Snap Shooting: Sporting, Exhibition, and Military'
+url: http://www.gutenberg.org/ebooks/45030
